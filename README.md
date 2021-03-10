@@ -1,4 +1,4 @@
-# Senac :slightly_smiling_face:
+# Senac  :slightly_smiling_face:
 
 Esta é o ultimo projeto antes da finalização do curso.
 
